@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Selenium.WebDriver.MicrosoftWebDriver</id>
+    <version>10.0.10240.0</version>
+    <authors>cchitsiang</authors>
+    <summary>Microsoft Web Driver (Nuget package)</summary>
+    <description>
+      Install Microsoft Web Driver into your Unit Test Project.
+      "MicrosoftWebDriver.exe" added as a linked project item, and copied to bin folder at the build.
+      NuGet package restoring ready, and no need to commit "MicrosoftWebDriver.exe" binary into source code control repository.
+      / The installing/uninstalling script codes that contained this package are free and unencumbered software released into the public domain.
+    </description>
+    <language>en-US</language>
+    <projectUrl>https://github.com/cchitsiang/nuget-selenium-webdriver-microsoftwebdriver</projectUrl>
+    <licenseUrl>http://unlicense.org/UNLICENSE</licenseUrl>
+    <tags>Selenium Microsoft WebDriver</tags>
+    <releaseNotes>
+      <![CDATA[
+      v.10.0.10240.0
+      - First version released.
+      ]]>
+    </releaseNotes>
+  </metadata>
+  <files>
+    <file src="README-MicrosoftWebDriver.txt" target="content"/>
+    <file src="MicrosoftWebDriver.exe" target="driver"/>
+    <file src="Install.ps1" target="tools"/>
+    <file src="Uninstall.ps1" target="tools"/>
+  </files>
+</package>
