@@ -14,7 +14,7 @@ Read more about [Microsoft WebDriver](https://blogs.windows.com/msedgedev/2015/0
 
 For example, at the package manager console on Visual Studio, enter following command.  
 
-    PM> Install-Package Selenium.WebDriver.IEDriver
+    PM> Install-Package Selenium.WebDriver.MicrosoftWebDriver
 
 ## Credits
 Big credit to @jsakamoto. I created this nuget based on this repo: https://github.com/jsakamoto/nupkg-selenium-webdriver-iedriver/
