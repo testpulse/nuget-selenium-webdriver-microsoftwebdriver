@@ -1,6 +1,6 @@
-# nuget-selenium-webdriver-microsoftwebdriver
-NuGet package - Selenium Microsoft WebDriver
+# NuGet package - Selenium Microsoft WebDriver
 
+[![NuGet Package](https://img.shields.io/nuget/v/Selenium.WebDriver.MicrosoftWebDriver.svg)](https://www.nuget.org/packages/Selenium.WebDriver.MicrosoftWebDriver/)
 
 ## What's this? 
 
