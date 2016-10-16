@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Selenium.WebDriver.MicrosoftWebDriver</id>
-    <version>10.0.10586.0</version>
+    <version>10.0.14393.0</version>
     <authors>cchitsiang</authors>
     <summary>Microsoft Web Driver (Nuget package)</summary>
     <description>
@@ -21,6 +21,8 @@
       - First version released.
       v.10.0.10586.0
       - For Windows 10 Fall 2015 Update.
+      v.10.0.14393.0
+      - For Edge version supported: 14.14393.
       ]]>
     </releaseNotes>
   </metadata>
