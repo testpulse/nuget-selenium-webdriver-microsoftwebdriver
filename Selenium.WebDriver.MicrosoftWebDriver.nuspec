@@ -27,9 +27,7 @@
     </releaseNotes>
   </metadata>
   <files>
-    <file src="README-MicrosoftWebDriver.txt" target="content"/>
     <file src="MicrosoftWebDriver.exe" target="driver"/>
-    <file src="Install.ps1" target="tools"/>
-    <file src="Uninstall.ps1" target="tools"/>
+    <file src="Selenium.WebDriver.MicrosoftWebDriver.targets" target="build"/>
   </files>
 </package>
