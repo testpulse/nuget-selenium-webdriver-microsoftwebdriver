@@ -17,17 +17,17 @@
     <tags>Selenium Microsoft WebDriver</tags>
     <releaseNotes>
       <![CDATA[
-      v.10.0.10240.0
-      - First version released.
-      v.10.0.10586.0
-      - For Windows 10 Fall 2015 Update.
       v.10.0.14393.0
       - For Edge version supported: 14.14393.
+      v.10.0.10586.0
+      - For Windows 10 Fall 2015 Update.
+      v.10.0.10240.0
+      - First version released.
       ]]>
     </releaseNotes>
   </metadata>
   <files>
-    <file src="MicrosoftWebDriver.exe" target="driver"/>
+    <file src="..\downloads\MicrosoftWebDriver.exe" target="driver"/>
     <file src="Selenium.WebDriver.MicrosoftWebDriver.targets" target="build"/>
   </files>
 </package>
