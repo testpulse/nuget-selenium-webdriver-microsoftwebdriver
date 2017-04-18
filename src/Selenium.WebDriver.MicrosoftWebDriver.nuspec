@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Selenium.WebDriver.MicrosoftWebDriver</id>
-    <version>10.0.14393.1</version>
+    <version>10.0.15063.0</version>
     <authors>cchitsiang</authors>
     <summary>Microsoft Web Driver (Nuget package)</summary>
     <description>
@@ -17,6 +17,8 @@
     <tags>Selenium Microsoft WebDriver</tags>
     <releaseNotes>
       <![CDATA[
+      v.10.0.15063.0
+      - For Edge version supported: 15.15063.
       v.10.0.14393.1
       - Remove PowerShell script from package.
       v.10.0.14393.0

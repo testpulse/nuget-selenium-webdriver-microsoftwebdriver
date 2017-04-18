@@ -13,7 +13,7 @@ namespace TestDrive1
             // Please keep your IE configuration settings:
             // 1. Check on "Enable Protected Mode" at ALL zones in "Security" tab of Internet Options dialog.
             // 2. Browser zoom level keep to 100%.
-            using (var driver = new OpenQA.Selenium.IE.InternetExplorerDriver())
+            using (var driver = new OpenQA.Selenium.Edge.EdgeDriver())
             {
                 driver.Navigate().GoToUrl("https://www.bing.com/");
                 driver.FindElementById("sb_form_q").SendKeys("Selenium WebDriver");
